@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @uncloudy999
 - 👀 I’m interested in programming, games, video editing and graphic designing
-- 🌱 I’m currently learning python, html and css
+- 🌱 I’m currently learning Python, HTML and CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 Message me on Twitter (@uncloudy999) or add me on Discord! (uncloudy#1294)
 
